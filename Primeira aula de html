@@ -1,0 +1,28 @@
+<!doctype html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title>Olá, mundo!</title>
+	</head>
+	<body>
+		<h1>Olá mundo!</h1>
+		<h2>Subtítulo</h2>
+		<p>Sou um estudante feliz</p>
+		<h3>Primeiro html!!!</h3>
+
+		<section>
+			<div>
+				<p>O que você gosta de fazer?</p>
+				<ul>
+					<li>Andar de bike</li>
+					<li>Carros</li>
+					<li>Viajar</li>
+					<li>Assistir filmes e séries</li>
+				</ul>
+			</div>
+			<div>
+				<img src="carro_bonito.jpg">
+			</div>
+		</section>	
+	</body>
+</html>
