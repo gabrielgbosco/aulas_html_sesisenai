@@ -1,2 +1,2 @@
 # aulas_html_sesisenai
-Primeira aula de html de 2024
+Aqui ficarão postadas as atividades que eu realizar enquanto estiver na Escola SESI
